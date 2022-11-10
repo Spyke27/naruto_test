@@ -1,6 +1,6 @@
 # naruto_test
 
-Projeto feito para praticar HTML e iniciar o uso de CSS.
+Projeto feito para praticar HTML e iniciar o uso de CSS com FlexBox.
 
 # 🖥️ Resultado
 <div align="center">
